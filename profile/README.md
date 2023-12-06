@@ -13,5 +13,5 @@ Fun fact - the author subsits on a diet of body building supplements, rigorous p
 self-improvement. He takes more pills in one day than an average person takes in a year. This last part is made
 up but I might try to back it up with stats one day. :)
 
-The main portfolio sight for the company is [here](https://www.path-variable.com).
+The main portfolio site for the company is [here](https://www.path-variable.com).
 A blog exists at [this address](https://blog.path-variable.com) where you can check out my how-to articles, talks and discussions.
